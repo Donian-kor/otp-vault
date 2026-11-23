@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "OTP Vault",
+  "version": "0.5.0",
+  "description": "서버 없이 내 브라우저 안에서 OTP(TOTP) 인증번호를 암호화해 보관하고 생성합니다.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "OTP Vault",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    }
+  },
+  "options_ui": {
+    "page": "manage.html",
+    "open_in_tab": true
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "otp-vault@local.example",
+      "strict_min_version": "140.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "type": "module"
+  }
+}

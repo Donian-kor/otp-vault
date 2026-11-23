@@ -1,0 +1,362 @@
+[
+ {
+  "file": "000.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask0",
+  "expect": true
+ },
+ {
+  "file": "001.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask1",
+  "expect": true
+ },
+ {
+  "file": "002.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask2",
+  "expect": true
+ },
+ {
+  "file": "003.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask3",
+  "expect": true
+ },
+ {
+  "file": "004.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask4",
+  "expect": true
+ },
+ {
+  "file": "005.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask5",
+  "expect": true
+ },
+ {
+  "file": "006.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask6",
+  "expect": true
+ },
+ {
+  "file": "007.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v4 ECC-L mask7",
+  "expect": true
+ },
+ {
+  "file": "008.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask0",
+  "expect": true
+ },
+ {
+  "file": "009.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask1",
+  "expect": true
+ },
+ {
+  "file": "010.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask2",
+  "expect": true
+ },
+ {
+  "file": "011.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask3",
+  "expect": true
+ },
+ {
+  "file": "012.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask4",
+  "expect": true
+ },
+ {
+  "file": "013.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask5",
+  "expect": true
+ },
+ {
+  "file": "014.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask6",
+  "expect": true
+ },
+ {
+  "file": "015.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v5 ECC-M mask7",
+  "expect": true
+ },
+ {
+  "file": "016.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask0",
+  "expect": true
+ },
+ {
+  "file": "017.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask1",
+  "expect": true
+ },
+ {
+  "file": "018.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask2",
+  "expect": true
+ },
+ {
+  "file": "019.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask3",
+  "expect": true
+ },
+ {
+  "file": "020.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask4",
+  "expect": true
+ },
+ {
+  "file": "021.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask5",
+  "expect": true
+ },
+ {
+  "file": "022.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask6",
+  "expect": true
+ },
+ {
+  "file": "023.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v6 ECC-Q mask7",
+  "expect": true
+ },
+ {
+  "file": "024.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask0",
+  "expect": true
+ },
+ {
+  "file": "025.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask1",
+  "expect": true
+ },
+ {
+  "file": "026.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask2",
+  "expect": true
+ },
+ {
+  "file": "027.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask3",
+  "expect": true
+ },
+ {
+  "file": "028.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask4",
+  "expect": true
+ },
+ {
+  "file": "029.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask5",
+  "expect": true
+ },
+ {
+  "file": "030.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask6",
+  "expect": true
+ },
+ {
+  "file": "031.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "v8 ECC-H mask7",
+  "expect": true
+ },
+ {
+  "file": "032.bin",
+  "text": "otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60",
+  "desc": "긴 문자열 v7 ECC-L",
+  "expect": true
+ },
+ {
+  "file": "033.bin",
+  "text": "otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60",
+  "desc": "긴 문자열 v8 ECC-M",
+  "expect": true
+ },
+ {
+  "file": "034.bin",
+  "text": "otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60",
+  "desc": "긴 문자열 v10 ECC-Q",
+  "expect": true
+ },
+ {
+  "file": "035.bin",
+  "text": "otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60",
+  "desc": "긴 문자열 v12 ECC-H",
+  "expect": true
+ },
+ {
+  "file": "036.bin",
+  "text": "otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60otpauth://totp/네이버:홍길동@example.com?secret=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP&issuer=네이버&algorithm=SHA256&digits=8&period=60",
+  "desc": "큰 버전 v16",
+  "expect": true
+ },
+ {
+  "file": "037.bin",
+  "text": "0123456789012345678",
+  "desc": "numeric",
+  "expect": true
+ },
+ {
+  "file": "038.bin",
+  "text": "HELLO WORLD 123",
+  "desc": "alnum",
+  "expect": true
+ },
+ {
+  "file": "039.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "배율 1",
+  "expect": true
+ },
+ {
+  "file": "040.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "배율 2",
+  "expect": true
+ },
+ {
+  "file": "041.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "배율 3",
+  "expect": true
+ },
+ {
+  "file": "042.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "배율 8",
+  "expect": true
+ },
+ {
+  "file": "043.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "배율 11",
+  "expect": true
+ },
+ {
+  "file": "044.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "색 반전",
+  "expect": true
+ },
+ {
+  "file": "045.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 4도",
+  "expect": true
+ },
+ {
+  "file": "046.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 12도",
+  "expect": true
+ },
+ {
+  "file": "047.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 25도",
+  "expect": true
+ },
+ {
+  "file": "048.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 45도",
+  "expect": true
+ },
+ {
+  "file": "049.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 90도",
+  "expect": true
+ },
+ {
+  "file": "050.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "회전 180도",
+  "expect": true
+ },
+ {
+  "file": "051.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "흐림",
+  "expect": true
+ },
+ {
+  "file": "052.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "점 잡음",
+  "expect": true
+ },
+ {
+  "file": "053.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "큰 화면 속 작은 QR",
+  "expect": true
+ },
+ {
+  "file": "054.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "모듈 8개 손상 ECC-L",
+  "expect": true
+ },
+ {
+  "file": "055.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "모듈 14개 손상 ECC-M",
+  "expect": true
+ },
+ {
+  "file": "056.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "모듈 22개 손상 ECC-Q",
+  "expect": true
+ },
+ {
+  "file": "057.bin",
+  "text": "otpauth://totp/GitHub:alice?secret=JBSWY3DPEHPK3PXP&issuer=GitHub",
+  "desc": "모듈 30개 손상 ECC-H",
+  "expect": true
+ },
+ {
+  "file": "058.bin",
+  "text": null,
+  "desc": "빈 이미지",
+  "expect": false
+ },
+ {
+  "file": "059.bin",
+  "text": null,
+  "desc": "무작위 노이즈",
+  "expect": false
+ }
+]
